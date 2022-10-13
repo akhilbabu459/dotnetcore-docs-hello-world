@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Qtwebappdemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_739FA81F70C84B308B2F7FC36DB72E25 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80E84107B3184485BC10C8EC9F3E82BE }}
           package: .
